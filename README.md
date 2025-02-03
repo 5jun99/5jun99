@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 
-## SKills
+## Skills
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-222222?style=plastic&logo=Github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=coffeescript&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plasic&logo=Python&logoColor=white"/> <br>
