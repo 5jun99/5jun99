@@ -1,7 +1,5 @@
 # 오준혁 OHJH 
 ## About me
-[![5jun99's GitHub stats](https://github-readme-stats.vercel.app/api?username=5jun99&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
   <a href="https://velog.io/@9409velog/posts"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat-squar&logo=Velog&logoColor=white"/></a> <a href="mailto:oj041088@gmail.com"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat-squar&logo=Gmail&logoColor=white&link=mailto:oj041088@gmail.com"/></a>
 
 ## Experience
