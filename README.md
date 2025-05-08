@@ -6,7 +6,7 @@
 - 2020.03 ~ 광운대학교 정보융합학부 
 - 2023.09 ~ 2024.08 GDSC KW 1기 Member(Back-end)
 - 2024.01 ~ 2024.12 멋쟁이 사자처럼 대학 광운 12기 아기사자
-- 2025.01 ~ 멋쟁이 사자처럼 대학 관운 13기 운영진
+- 2025.01 ~ 멋쟁이 사자처럼 대학 광운 13기 운영진
 - 2025.02 ~ IDEA Lab 학부연구생
 ## Skill
 <img src="https://img.shields.io/badge/Java-007396?style=flat-squar&logo=coffeescript&logoColor=fcfcfc"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-squar&logo=SpringBoot&logoColor=fcfcfc"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-squar&logo=JUnit5&logoColor=fcfcfc"/> <br/>
