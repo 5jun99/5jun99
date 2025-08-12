@@ -1,5 +1,4 @@
-# 오준혁 OHJH 
-## About me
+# 오준혁
   <a href="https://velog.io/@9409velog/posts"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat-squar&logo=Velog&logoColor=white"/></a> <a href="mailto:oj041088@gmail.com"><img src="http://img.shields.io/badge/-Gmail-EA4335?style=flat-squar&logo=Gmail&logoColor=white&link=mailto:oj041088@gmail.com"/></a>
 
 ## Experience
